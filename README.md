@@ -217,6 +217,10 @@ The final result is hex2a(mb) (hex2a() is convert from hex to ASCII)
    ![Figure 8. Console result of step 3](https://matthew.kr/wp-content/uploads/2017/11/99.png)
 (Figure 8. Console result of step 3)
 
+## References
+- https://www.slideshare.net/secret/cuerHdATH0uzg5 (ACM Documentation)
+- https://www.slideshare.net/secret/MPizb4nbldCHHe (slides)
+
 ## License
 
 [MIT](LICENSE.md) © [Matthew Chang](https://www.matthewlab.com)
