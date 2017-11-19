@@ -2,6 +2,11 @@
 
 An Implementation of digital certified mail using Pretty Good Privacy
 
+
+## References
+- https://www.slideshare.net/secret/cuerHdATH0uzg5 (ACM Documentation)
+- https://www.slideshare.net/secret/MPizb4nbldCHHe (slides)
+
 ## 1. Introduction
 Today email is the most used media in exchanging messages and information between people and groups. However, there are not many known efficient ways of securing the email system, since it is also one of the challenging parts due to trade off among performance and security. In this project, we have done research on the digital certified mail up to implementing base algorithm and then, went through more on pretty good privacy (PGP) applied to the email system.
 
@@ -216,10 +221,6 @@ The final result is hex2a(mb) (hex2a() is convert from hex to ASCII)
 
    ![Figure 8. Console result of step 3](https://matthew.kr/wp-content/uploads/2017/11/99.png)
 (Figure 8. Console result of step 3)
-
-## References
-- https://www.slideshare.net/secret/cuerHdATH0uzg5 (ACM Documentation)
-- https://www.slideshare.net/secret/MPizb4nbldCHHe (slides)
 
 ## License
 
